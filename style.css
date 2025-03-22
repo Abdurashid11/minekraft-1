@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-image: url(img/RhxYP5VZuYbpXFdKJSj3Sn-1200-88.jpg);
+    background-position: center;
+
+}
+.big{
+    margin: -912px 0px 0px 2878px;   
+}
+.big1{
+    margin: -949px 0px 0px 999px;
+}
+.big2{
+    margin: 1000px 0px -1797px 1162px;
+}
+.big3{
+    margin: 921px 0px 0px 1288px;
+}
+.big4{
+    margin: -874px 0px 0px 1414px;
+}
+.big5{
+    margin: -874px 0px 0px 1540px;
+}
+.big6{
+    margin: -875px 0px 0px 1665px;
+}
+.big7{
+    margin: -876px 0px 0px 1790px;
+}
+.big8{
+    margin: -875px 0px 0px 1915px;
+}
+.big9{
+    margin: -878px 0px 0px 2040px;
+}
+.big10{
+    margin: -875px 0px 0px 2165px;
+}
+.big11{
+    margin: -875px 0px 0px 2290px;
+}
+.big12{
+    margin: -875px 0px 0px 2415px;
+}
+.big13{
+    margin: -875px 0px 0px 2540px;
+}
+.big14{
+    margin: -874px 0px 0px 2665px;
+}
+.big15{
+    margin: -874px 0px 0px 2790px;
+}
+
+.дуб{
+    width: 200px;
+    height: 200px;
+    margin: -75px 0px 0px 0px;
+    display: flex;
+}
+.даска{
+    width: 125px;
+    height: 125px;
+    display: flex;
+}
+.дверь{
+    width: 260px;
+    height: 250px;
+    margin: 0px 0px 0px -70px;
+}
